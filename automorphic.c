@@ -2,7 +2,7 @@
 int main()
 {
     int num;
-    int sq;
+    int sq;  
     int flag = 0;
     int count;
     int temp;
